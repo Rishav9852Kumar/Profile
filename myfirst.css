@@ -1,0 +1,35 @@
+#topName{
+    color:rgb(18, 8, 61);
+    background-color: white;
+    font-weight:800;
+    mask-type:uppercase;
+    text-align: center;
+    margin:5px;
+    padding:50px;
+}
+#topName:hover{
+    color:yellow;
+    font-size:40px;
+    margin:5px;
+    padding:50px;
+}
+.wide{
+  background-color:rgb(19, 19, 18);
+  padding:10px;
+  
+}
+.heading{
+  background-color:rgb(10, 159, 233);
+  padding:20px;
+}
+.border-in{
+  background-color: rgb(253, 124, 124);
+  padding:3px;
+
+}
+.link{
+  padding:5px;
+}
+.right{
+  text-align: right;
+}
