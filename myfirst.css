@@ -1,3 +1,7 @@
+body{
+  background-color: #09A7A1;
+}
+
 #topName{
     color:rgb(18, 8, 61);
     background-color: white;
@@ -27,11 +31,20 @@
   padding:3px;
 
 }
-.link{
-  padding:5px;
+.link-left{
+  color:darkblue;
+  float:left;
+  width:10%;
+  
+}
+.link-centre{
+  color:darkblue;
+  float:right;
+  width:5%;}
+  
+.link-right{
+  color:darkblue;
+  float:right;
+  width:45%;
+}
 
-  background-color: chartreuse;
-}
-.right{
-  text-align: right;
-}
