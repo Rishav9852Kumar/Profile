@@ -1,10 +1,10 @@
 body{
-  background-color: #09A7A1;
+  background:url("background.jpg")
 }
 
 #topName{
     color:rgb(18, 8, 61);
-    background-color: white;
+    background-color: rgb(192, 181, 181);
     font-weight:800;
     mask-type:uppercase;
     text-align: center;
@@ -18,8 +18,9 @@ body{
     padding:50px;
 }
 .wide{
-  background-color:rgb(19, 19, 18);
+  background-color:rgb(73, 73, 72);
   padding:10px;
+  margin-top:1cm;
   
 }
 .heading{
